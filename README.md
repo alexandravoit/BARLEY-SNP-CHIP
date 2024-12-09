@@ -4,4 +4,5 @@ Barley is a nutritious grain that can grow even in harsher climates and contains
 
 The goal of this project is to lay the groundwork for improving barley’s nutritional composition by hopefully identifying genetic factors linked to its protein content. By establishing a connection, we could facilitate larger studies that take into account barley’s other attributes as well - these include grain size, proneness to diseases, growth time etc. This knowledge could prove useful in crop breeding.
 
-**All code is located inside 'barley.ipynb' and 'Dendogram.ipynb'**
+**All code is located inside 'models.ipynb' (prediction models) and 'visuals.ipynb' (graphs and plots)**
+**You can also view our findings in poster format with file "D9.pdf"**
